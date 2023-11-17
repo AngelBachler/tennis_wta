@@ -1,4 +1,4 @@
-player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
+player,name_first,name_last,hand,dob,ioc,height,wikidata_id
 113190,Bobby,Riggs,U,,USA,,
 200000,X,X,U,19000000,UNK,,
 200001,Martina,Hingis,R,19800930,SUI,170,Q134720
